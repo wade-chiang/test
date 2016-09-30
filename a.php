@@ -1,3 +1,4 @@
 <?php
-  echo "R.I.P Jose";
+  echo "Work Hard, Learn Hard!!";
+  echo "I can Do THIS!!"
 ?>
